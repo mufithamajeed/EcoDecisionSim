@@ -14,6 +14,7 @@ The **logistic growth model** is a foundational model in population ecology. It 
 
 ### The model is defined by the equation:
 $$\frac{dN}{dt} = rN\left(1 - \frac{N}{K}\right)$$
+
 Where:
 - **N** = Population size
 - **r** = Intrinsic growth rate
