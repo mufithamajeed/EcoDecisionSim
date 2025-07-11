@@ -13,9 +13,7 @@ In conservation and environmental management, decision-makers often face the dil
 The **logistic growth model** is a foundational model in population ecology. It describes how populations grow rapidly when resources are abundant and slow as they approach a **carrying capacity (K)** due to resource limitations.
 
 ### The model is defined by the equation:
-$$
-\frac{dN}{dt} = rN\left(1 - \frac{N}{K}\right)
-$$
+$$\frac{dN}{dt} = rN\left(1 - \frac{N}{K}\right)$$
 Where:
 - **N** = Population size
 - **r** = Intrinsic growth rate
